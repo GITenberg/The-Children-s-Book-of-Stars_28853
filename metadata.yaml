@@ -1,0 +1,28 @@
+_repo: The-Children-s-Book-of-Stars_28853
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28853-h/images/i-cover1.jpg
+creator:
+  author:
+    agent_name: Mitton, G. E. (Geraldine Edith)
+    alias: Mitton, Geraldine Edith
+    birthdate: 1868
+    deathdate: 1955
+    gutenberg_agent_id: '9224'
+    url: http://www.gutenberg.org/2009/agents/9224
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Mitton
+description: ''
+gutenberg_issued: '2009-05-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28853'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QB'
+- !lcsh 'Astronomy -- Juvenile literature'
+title: The Children's Book of Stars
+url: http://www.gutenberg.org/ebooks/28853
